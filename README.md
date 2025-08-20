@@ -5,5 +5,6 @@ Tasmota Refoss P11 V2 has several differences when compared to the original Refo
 
 
 Tasmota Refoss P11 V2 Parameters:
+
 ![Refoss P11 V2 Prameters](Images/Tasmota-Refoss-P11V2-Config.jpg)
 
