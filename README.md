@@ -17,5 +17,23 @@ Tasmota Refoss P11 V2 Parameters:
 
 ![Refoss P11 V2 Parameters](Images/Tasmota-Refoss-P11V2-Parameters.jpg)
 
+Refoss P11 V2
+Tasmota
+MQTT
+ESP8266
+Internal Temperature
+Energy Monitor
+Matter
+KNX
+
+Pin		
+GPIO3	CSE7766 Rx	
+GPIO4	LedLink_i	
+GPIO5	Button	1
+GPIO12	Led_i	1
+GPIO13	Relay	1
+GPIO17	ADC Temp	1
+
+
 
 
